@@ -1,0 +1,6 @@
+C:\Users\cliff_jumper\source\repos\Practise\Task_5\bin\Debug\Task_5.exe.config
+C:\Users\cliff_jumper\source\repos\Practise\Task_5\bin\Debug\Task_5.exe
+C:\Users\cliff_jumper\source\repos\Practise\Task_5\bin\Debug\Task_5.pdb
+C:\Users\cliff_jumper\source\repos\Practise\Task_5\obj\Debug\Task_5.csproj.CoreCompileInputs.cache
+C:\Users\cliff_jumper\source\repos\Practise\Task_5\obj\Debug\Task_5.exe
+C:\Users\cliff_jumper\source\repos\Practise\Task_5\obj\Debug\Task_5.pdb

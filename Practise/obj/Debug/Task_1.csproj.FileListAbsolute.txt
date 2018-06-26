@@ -1,0 +1,7 @@
+C:\Users\cliff_jumper\source\repos\Practise\Practise\bin\Debug\Practise.exe.config
+C:\Users\cliff_jumper\source\repos\Practise\Practise\bin\Debug\Practise.exe
+C:\Users\cliff_jumper\source\repos\Practise\Practise\bin\Debug\Practise.pdb
+C:\Users\cliff_jumper\source\repos\Practise\Practise\obj\Debug\Task_1.csprojAssemblyReference.cache
+C:\Users\cliff_jumper\source\repos\Practise\Practise\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\cliff_jumper\source\repos\Practise\Practise\obj\Debug\Practise.exe
+C:\Users\cliff_jumper\source\repos\Practise\Practise\obj\Debug\Practise.pdb
